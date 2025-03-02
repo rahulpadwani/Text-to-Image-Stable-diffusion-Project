@@ -2,6 +2,9 @@
 
 ## Project Overview
 
+![proj_3](https://github.com/user-attachments/assets/ff922c09-585d-4133-9593-7247486ff740)
+
+
 This project implements text-to-image generation using Stable Diffusion, a state-of-the-art deep learning model for synthesizing high-quality images from textual descriptions. It leverages Python and deep learning frameworks to generate realistic images based on user input, showcasing the power of generative AI.
 
 ### Key Features
